@@ -13,6 +13,7 @@ interface MovieData {
   End_time: string;
   Description: string;
   Theater_room_no: number;
+  noob: any;
 }
 
 interface MovieContextType {
